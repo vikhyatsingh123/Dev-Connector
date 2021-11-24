@@ -1,6 +1,10 @@
 # Dev-Connector
 Create a developer profile/portfolio, share posts and get help from other developers.
 
+## To Run it Locally
+
+To run it locally, first clone it then run npm install and then create .env file which contain MONGO_URI, githubtoken, JWT_SECRET. At last, run npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
