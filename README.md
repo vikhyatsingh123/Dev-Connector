@@ -1,6 +1,11 @@
 # Dev-Connector
 Create a developer profile/portfolio, share posts and get help from other developers.
 
+## Login details
+
+email: abc@gmail.com 
+password: 123456
+
 ## To Run it Locally
 
 To run it locally, first clone it then run npm install and then create .env file which contain MONGO_URI, githubtoken, JWT_SECRET. At last, run npm start
